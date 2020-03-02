@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.piupiupiu.in</id>
     <title>off work day</title>
-    <updated>2020-03-02T15:33:51.141Z</updated>
+    <updated>2020-03-02T15:35:34.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.piupiupiu.in"/>
     <link rel="self" href="https://blog.piupiupiu.in/atom.xml"/>
@@ -52,14 +52,19 @@ that's all.👪</li>
     </entry>
     <entry>
         <title type="html"><![CDATA[Creating wardrobe folder day!]]></title>
-        <id>https://blog.piupiupiu.in/post/CwqaaEm_l/</id>
-        <link href="https://blog.piupiupiu.in/post/CwqaaEm_l/">
+        <id>https://blog.piupiupiu.in/post/Creating wardrobe folder day!/</id>
+        <link href="https://blog.piupiupiu.in/post/Creating wardrobe folder day!/">
         </link>
         <updated>2020-03-02T14:46:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>Today I plan to arrange the wardrobe and put them into folder then analysis them.<br>
+how I do this?<br>
+Firstly， taking photo of all my clothing and drop them to different folder.</p>
+]]></summary>
         <content type="html"><![CDATA[<p>Today I plan to arrange the wardrobe and put them into folder then analysis them.<br>
 how I do this?<br>
-Firstly， taking photo of all my clothing and drop them to different folder.<br>
-<img src="http://txx-1257178398.file.myqcloud.com/uPic/catalog.png" alt="folder" loading="lazy"><br>
+Firstly， taking photo of all my clothing and drop them to different folder.</p>
+<!-- more -->
+<p><img src="http://txx-1257178398.file.myqcloud.com/uPic/catalog.png" alt="folder" loading="lazy"><br>
 Each of the folder build by different category. such as top folder.<br>
 <img src="http://txx-1257178398.file.myqcloud.com/uPic/top.png" alt="shirt folder" loading="lazy"><br>
 Then I find I total create 17 styles and overall have 152 pieces in winter wardrobe.<br>
